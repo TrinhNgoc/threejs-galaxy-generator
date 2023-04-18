@@ -1,4 +1,7 @@
 # Three.js Journey
+Creating a galaxy generator with Three.js
+
+[https://threejs-galaxy-generator-1.vercel.app/](https://threejs-galaxy-generator-1.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
